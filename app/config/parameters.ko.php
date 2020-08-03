@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'koprestashop',
+    'database_user' => 'koprestashop',
+    'database_password' => '1ProDB&4ever',
+    'database_prefix' => 'ko_so_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'OYIOJUQu5uaVBSLvcccVgtGZkrzEjSU3R0I93qGtZcVtdYgZDfAx9wgo',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2020-08-02',
+    'locale' => 'en-US',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'gXxPSNIwFaj6Qz0XevDAxioGUOL4VvkyRtqpKdxCtx7PeoMQBVprj16h',
+    'cookie_iv' => 'ZLYNdBvD',
+    'new_cookie_key' => 'def00000c854a7e52f02416d0142d2ef4479b86d60cacd7e5452fb4c836ba0439ba0db93a94a51f8cabc6ae4884bd147f5e893e6656207a02862afde38d649d4a1175512',
+  ),
+);
